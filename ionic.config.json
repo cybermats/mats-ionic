@@ -1,0 +1,8 @@
+{
+  "name": "Mats Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "55e8af19"
+}
